@@ -11,6 +11,12 @@ The basic algorithm is simple:
 1. Determine where those functions are called.
 1. Connect the dots.
 
+Next thing to do:
+- The logic and purpose of each function.
+- The inputs, outputs, and interactions with external systems.
+- The detailed implementation or context of the code.
+
+
 Code2flow is useful for:
 - Untangling spaghetti code.
 - Identifying orphaned functions.
